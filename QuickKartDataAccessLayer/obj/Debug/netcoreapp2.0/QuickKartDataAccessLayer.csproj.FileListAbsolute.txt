@@ -1,0 +1,54 @@
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.deps.json
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.json
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.dev.json
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.deps.json
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.json
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.dev.json
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\D_Drive\ILP course creations\MVC core\app\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+D:\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.deps.json
+D:\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.json
+D:\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.dev.json
+D:\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csprojAssemblyReference.cache
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+D:\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.deps.json
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.dev.json
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+C:\Users\aswin.t\Downloads\QuickKartDataAccessLayer\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.deps.json
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.runtimeconfig.dev.json
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\bin\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.dll
+C:\Users\PIYUSH14.TRN\Desktop\MVC CORE\QuickKart\QuickKartDataAccessLayer\obj\Debug\netcoreapp2.0\QuickKartDataAccessLayer.pdb

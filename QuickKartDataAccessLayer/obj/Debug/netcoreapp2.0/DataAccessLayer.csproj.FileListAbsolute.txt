@@ -1,0 +1,11 @@
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.deps.json
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.AssemblyInfo.cs
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.dll
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.pdb
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\obj\Debug\netcoreapp2.0\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.runtimeconfig.json
+D:\D_Drive\Self development\ASP.NET core\QuickKartMVCCoreWIthDAL\DataAccessLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.runtimeconfig.dev.json
